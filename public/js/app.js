@@ -1,4 +1,4 @@
-console.log('client-side javascript is working')
+
 const form= document.querySelector('form')
 const input = document.querySelector('input')
 
